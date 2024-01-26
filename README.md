@@ -10,13 +10,16 @@ Este projeto foi criado para automatizar tarefas, proporcionando economia de tem
 
 ## Como os usuários podem começar a usar o projeto?
 
+**ATENÇÂO**
+Pode ser que o computador barre o dowload ou a própria execução da pasta "automação ANVISA", caso isso ocorra aceite o download mesmo assim que o arquivo é totalmente seguro.
+
 Para obter acesso ao projeto, o usuário deve ter o Google Chrome instalado em sua máquina. Em seguida, o download dos arquivos disponibilizados neste projeto deve ser feito, o usuário deverá criar uma pasta e botar somente os 3 arquivos.
 
 - **Registro:** Neste arquivo Excel, o usuário deve fornecer os números de registro a serem consultados pelo programa, colocando um registro em cada linha. A primeira linha (preenchida com "Registro") não deve ser alterada, começando pela segunda linha. (foram colocados algumas linhas de exemplos no excel, exclua os exemplos antes de realizar as consultas)
 
 - **Dados:** Neste arquivo, inicialmente vazio, o usuário receberá o retorno da consulta em uma planilha Excel com os dados específicos. (foram colocados algumas linhas de exemplos no excel, exclua os exemplos antes de realizar as consultas)
 
-- **Automação ANVISA:** Este arquivo deve ser executado após o preenchimento dos números de registro no arquivo "Registros". Ao ser iniciado(esperar o programa fazer seus downloads internos), o programa realizará a tarefa em primeiro ou segundo plano. Ao termino do programa, os dados de cada produto estarão disponíveis na planilha Excel "Dados" (que não deve estar aberta durante a execução do programa).
+- **Automação ANVISA:** Este arquivo deve ser executado após o preenchimento dos números de registro no arquivo "Registros". Ao ser iniciado(esperar o programa fazer seus downloads internos), o programa realizará a tarefa em primeiro ou segundo plano. Ao termino do programa, os dados de cada produto estarão disponíveis na planilha Excel "Dados" **(que não PODERÁ estar aberta durante a execução do programa)**.
 
   
 
