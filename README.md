@@ -10,8 +10,8 @@ Este projeto foi criado para automatizar tarefas, proporcionando economia de tem
 
 ## Como os usuários podem começar a usar o projeto?
 
-**OBSERVAÇÃO IMPORTANTE**
-Pode ser que o computador barre o dowload ou a própria execução da pasta "automação ANVISA", caso isso ocorra aceite o download mesmo assim que o arquivo é totalmente seguro.
+**OBSERVAÇÃO IMPORTANTE:**
+ Pode ser que o computador barre o dowload ou a própria execução da pasta "automação ANVISA", caso isso ocorra aceite o download mesmo assim que o arquivo é totalmente seguro.
 
 Para obter acesso ao projeto, o usuário deve ter o Google Chrome instalado em sua máquina. Em seguida, o download dos arquivos disponibilizados neste projeto deve ser feito, o usuário deverá criar uma pasta e botar somente os 3 arquivos.
 
